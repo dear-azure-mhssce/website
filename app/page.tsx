@@ -1,7 +1,7 @@
 import React from "react";
 
 const Home = () => {
-  return <div>Welcome to Dear Azure MHSSCE</div>;
+  return <div></div>;
 };
 
 export default Home;
